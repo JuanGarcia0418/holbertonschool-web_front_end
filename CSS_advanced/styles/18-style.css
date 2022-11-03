@@ -390,9 +390,9 @@ template{
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
-    letter-spacing: var(--nav-item-letter-sparcing);
+    letter-spacing: var(--nav-item-letter-spacing);
     display: var(--nav-item-display);
-    margin: var(--nav-item-marginß)
+    margin: var(--nav-item-margin)
   }
   .nav .nav-link {
     display: block;
